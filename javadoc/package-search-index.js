@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.exemple.inlamning2"}]

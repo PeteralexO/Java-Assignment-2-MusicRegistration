@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.exemple.inlamning2","l":"Main"},{"p":"com.exemple.inlamning2","l":"MediaSong"},{"p":"com.exemple.inlamning2","l":"Song"},{"p":"com.exemple.inlamning2","l":"SongCollection"}]
